@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kazik-Tazik
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C, Python, JS
-- 📖 I'm studying at Warsaw University of Technology
 
 
 <!---
