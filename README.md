@@ -1,3 +1,3 @@
 - My name is Kazimir Yurkevich
 - I am interested in Game Developing
-- Programming languages: Java, C++, Pyhhon, Lua
+- Programming languages: Java, C++, Python, Lua
